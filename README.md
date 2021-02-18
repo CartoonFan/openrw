@@ -1,4 +1,7 @@
 # OpenRW
+⚠️ **Not in active development anymore; Superseded by [re3](https://github.com/GTAmodding/re3)** ⚠️  
+Thanks for all the help and effort through-out the years!
+
 [![IRC freenode #openrw](https://raster.shields.io/badge/freenode-%23openrw-blue)](https://webchat.freenode.net/?channels=%23openrw)
 
 ## About
